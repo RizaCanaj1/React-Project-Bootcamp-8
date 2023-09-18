@@ -1,0 +1,9 @@
+.searched img{
+width: 100%;
+}
+
+.searched .cards-grid{
+    display:grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 20px
+}

@@ -1,0 +1,13 @@
+.contact_us *{
+    color: white;
+}
+.contact_us .card{
+    min-width: 450px;
+    max-width: 450px;
+}
+.contact_us #feedback{
+    border-radius: 15px;
+    max-height: 300px;
+    max-width: 390px;
+    min-width: 390px;
+}

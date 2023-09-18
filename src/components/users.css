@@ -1,0 +1,16 @@
+.users {
+    color: white!important;
+}
+.users input{
+    max-width:80px;
+}
+.users input#email{
+    max-width:300px;
+}
+.users input#password{
+    max-width:100px;
+}
+.users table tr td{
+    text-align: center;
+    vertical-align: middle;
+}
